@@ -1,5 +1,6 @@
 .DS_Store
-assets/
+assets/*.tif
+*.png
 
 *.py[cod]
 
